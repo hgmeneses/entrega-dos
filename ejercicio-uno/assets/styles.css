@@ -1,0 +1,19 @@
+#blank-list-item {
+    list-style-type: none;
+}
+
+#circle-list-item {
+    list-style-type: circle;
+}
+
+#square-list-item {
+    list-style-type: square;
+}
+
+#roman-list-item {
+    list-style-type: lower-roman;
+}
+
+#greek-list-item {
+    list-style-type: lower-greek;
+}
